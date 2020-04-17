@@ -10,10 +10,10 @@
 
 ### Directions
 
-1. Make sure you have the original training and test data from the [competition](https://www.kaggle.com/c/sf-crime) (train.csv and test.csv) saved in the same directory as the notebooks included in this repo. 
-2. Run the preprocessing notebook.
-3. Using the output files from the preprocessing notebook (p_train.csv and p_test.csv), train each of the individual models using its corresponding notebook. 
-4. Using the output files from each model training notebook, run the stacking-combine notebook to create the final submission file using a stacked ensemble created from the predictions of each of the five models. 
+1. Make sure you have the original training and test data from the [competition](https://www.kaggle.com/c/sf-crime) (train.csv and test.csv) saved in the same directory as the scripts included in this repo. 
+2. Run the preprocessing script.
+3. Using the output files from the preprocessing script (p_train.csv and p_test.csv), train each of the individual models using its corresponding script. 
+4. Using the output files from each model training script, run the stacking-combine script to create the final submission file using a stacked ensemble created from the predictions of each of the five models. 
 
 ### Model Results
 
