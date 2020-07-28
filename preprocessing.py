@@ -38,8 +38,8 @@ import gensim
 # In[4]:
 
 
-train_df = pd.read_csv('train.csv', low_memory=False)  # update path as needed
-test_df = pd.read_csv('test.csv', low_memory=False) # update path as needed
+train_df = pd.read_csv('train.csv.zip', low_memory=False)  # update path as needed
+test_df = pd.read_csv('test.csv.zip', low_memory=False) # update path as needed
 
 
 # ### Generate Features from 'Date'
