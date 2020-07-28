@@ -29,3 +29,5 @@ This repo includes a Jupyter notebook with our exploratory data analysis. Visual
 The code included in this repo was developed as part of the PGH Data Science Meetup Group's 2020 Kaggle Competition. A copy of the presentation that was delivered to present the model results can be found [here](https://docs.google.com/presentation/d/1V-fzkfyjcLuN9bXJlbOhAorDTtMSrGwZ4xY1w1w0geM/edit?usp=sharing).  
 
 An additional set of code was developed for incorporation of external datasets into the original data provided by the competition hosts. This code will be added to the repo in the near future. There were several interesting takeaways from the other team presentations that may inspire future code modifications as well. 
+
+UPDATE:  This project is also [summarized in a Medium article](https://medium.com/@scottmduda/san-francisco-crime-classification-9d5a1c4d7cfd).
